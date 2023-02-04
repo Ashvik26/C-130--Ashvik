@@ -1,0 +1,19 @@
+body{
+    background-image:url("dj\ wallpaper.jpeg");
+    background-position:center;
+    background-size:cover;
+}
+
+
+.music{
+    width:100%;
+    font-size: 30px;
+    margin: 0px;
+}
+#note{
+    color: black;
+    font-size: 20px;
+}
+#playing{
+    font-size: 25px;
+}
